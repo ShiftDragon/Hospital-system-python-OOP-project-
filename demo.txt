@@ -1,0 +1,31 @@
+---
+
+## Suggested Presentation Demo
+
+1. Create a doctor.
+2. Login as doctor.
+3. Add available times.
+4. Logout.
+5. Create a patient.
+6. Choose supported company = Yes.
+7. Login as patient.
+8. View doctors.
+9. Book appointment.
+10. Login as doctor.
+11. Open appointment.
+12. Show patient data.
+13. Add radiology.
+14. Add medical test.
+15. Add medicine.
+16. Add follow-up.
+17. Complete appointment.
+18. Login as patient.
+19. View medical items and prices.
+20. Add a radiology/test result.
+21. Login as doctor.
+22. Open follow-up.
+23. Show patient data and results.
+24. Edit or remove one item.
+25. Use Undo.
+
+---
