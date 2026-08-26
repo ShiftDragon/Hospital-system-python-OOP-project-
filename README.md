@@ -312,7 +312,7 @@ You need Python 3.
 Open the project folder and run:
 
 ```bash
-python hospital_system_simple.py
+python hospital_system.py
 ```
 
 ---
